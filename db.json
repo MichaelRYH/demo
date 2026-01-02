@@ -1,14 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "bulletins": [
+    { "id": 1, "title": "系統維護公告", "content": "本週五維護", "date": "2026-01-05" },
+    { "id": 2, "title": "春節放假通知", "content": "1/10 放假", "date": "2026-01-10" }
+  ]
 }
